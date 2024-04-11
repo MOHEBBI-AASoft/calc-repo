@@ -9,6 +9,8 @@ body {
     border: 1px solid #ccc;
     width: 400px;
     margin: 100px auto;
+    flex-wrap: wrap;
+  display: flex;
 }
 
 input[type="text"], input[type="button"] {
