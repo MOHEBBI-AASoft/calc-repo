@@ -37,3 +37,9 @@ input[type="button"] {
 input[type="button"]:hover {
     background-color: #555;
 }
+
+input{
+    border: none;
+  outline: none;
+
+}
